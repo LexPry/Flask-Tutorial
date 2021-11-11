@@ -1,0 +1,41 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #393D3F;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+    padding-top: 10px;
+    color: #546A7B;
+}
+
+.content h1 {
+    color: #FDFDFF;
+}
+
+table, td, th {
+    border: 3px solid #62929E;
+    background-color: #FDFDFF;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+#content {
+    width: 70%;
+} 
+
